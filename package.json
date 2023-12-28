@@ -1,0 +1,23 @@
+{
+  "name": "gcp_infra",
+  "version": "1.0.0",
+  "description": "Orquestando Infraestructuras Económicas en GCP para Sitios Web",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fran2344/gcp_infra.git"
+  },
+  "author": "Francisco Ardon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fran2344/gcp_infra/issues"
+  },
+  "homepage": "https://github.com/fran2344/gcp_infra#readme",
+  "dependencies": {
+    "@pulumi/gcp": "^7.4.0",
+    "@pulumi/pulumi": "^3.99.0"
+  }
+}
